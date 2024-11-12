@@ -24,3 +24,12 @@ _**Fitur Akun Pengguna**_
 
 ### Langkah 7: Histori Pembayaran yang Belum Diselesaikan
 ![unpaid Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/history%20unpaid%20page.png)
+
+### Langkah 8: Pengelolaan Akun Pengguna
+![account Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/account%20page.png)
+
+### Langkah 9: Log Out
+![logout Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/logout%20page.png)
+
+
+_**Fitur Akun Admin**_
