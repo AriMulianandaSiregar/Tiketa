@@ -39,7 +39,7 @@ _**Fitur Akun Pengguna**_
 
 _**Fitur Akun Admin**_
 ### Langkah 1: Halaman Admin: Pengelolaan Maskapai
-![crud airline Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/admin%20crud%20airlines%20page.png)
+![crud airlines Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/admin%20crud%20airlines%20page.png)
 
 ### Langkah 2: Halaman Admin: Pengelolaan Rute Penerbangan
-![crud airline Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/admin%20crud%20detail%20rutes.png)
+![crud rutes Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/admin%20crud%20detail%20rutes.png)
