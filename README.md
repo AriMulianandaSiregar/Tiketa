@@ -37,5 +37,6 @@ _**Fitur Akun Pengguna**_
 ### Langkah 12: Log Out
 ![logout Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/logout%20page.png)
 
-
 _**Fitur Akun Admin**_
+### Langkah 1: Halaman Admin: Pengelolaan Maskapai
+![unpaid Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/admin%20crud%airline%20page.png)
