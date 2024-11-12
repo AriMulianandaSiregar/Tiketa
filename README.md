@@ -1,4 +1,6 @@
-## DEMO APLIKASI
+# DEMO APLIKASI TIKETA
+
+#Fitur Akun Pengguna
 ### Langkah 1: register ke Aplikasi
 ![Register Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/register%20page.png)
 
