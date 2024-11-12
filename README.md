@@ -18,3 +18,9 @@ _**Fitur Akun Pengguna**_
 
 ### Langkah 6: Pembayaran Berhasil
 ![payment success Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/payment%20success%20page.png)
+
+### Langkah 6: Histori Pembayaran yang Sudah Diselesaikan
+![paid Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/history%20paid%20page.png)
+
+### Langkah 7: Histori Pembayaran yang Belum Diselesaikan
+![unpaid Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/history%20unpaid%20page.png)
