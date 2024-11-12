@@ -19,19 +19,22 @@ _**Fitur Akun Pengguna**_
 ### Langkah 6: Pembayaran Berhasil
 ![payment success Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/payment%20success%20page.png)
 
-### Langkah 6: Histori Pembayaran yang Sudah Diselesaikan
+### Langkah 7: Detail Tiket
+![detail ticket Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/detail%20ticket%20page.png)
+
+### Langkah 8: Histori Pembayaran yang Sudah Diselesaikan
 ![paid Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/history%20paid%20page.png)
 
-### Langkah 7: Histori Pembayaran yang Belum Diselesaikan
+### Langkah 9: Histori Pembayaran yang Belum Diselesaikan
 ![unpaid Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/history%20unpaid%20page.png)
 
-### Langkah 9: Pengelolaan E- Wallet
+### Langkah 10: Pengelolaan E- Wallet
 ![e-wallet Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/wallet%20page.png)
 
-### Langkah 10: Pengelolaan Akun Pengguna
+### Langkah 11: Pengelolaan Akun Pengguna
 ![account Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/account%20page.png)
 
-### Langkah 11: Log Out
+### Langkah 12: Log Out
 ![logout Screen](https://github.com/AriMulianandaSiregar/Tiketa/blob/main/Gambar%20Demo%20Aplikasi/logout%20page.png)
 
 
